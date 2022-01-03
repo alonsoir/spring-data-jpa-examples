@@ -25,7 +25,7 @@
         <hibernate.version>4.0.1.Final</hibernate.version>
         <mysql.connector.version>5.1.18</mysql.connector.version>
         <slf4j.version>1.6.1</slf4j.version>
-        <spring.version>3.1.0.RELEASE</spring.version>
+        <spring.version>5.2.18.RELEASE</spring.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <querydsl.version>2.3.2</querydsl.version>
     </properties>
@@ -92,7 +92,7 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-jpa</artifactId>
-            <version>1.0.2.RELEASE</version>
+            <version>1.5.0.RELEASE</version>
         </dependency>
         <!-- Hibernate -->
         <dependency>
